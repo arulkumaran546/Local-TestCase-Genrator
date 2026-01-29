@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Node.js
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Project Specific
+.tmp/
+frontend/dist/
+frontend/node_modules/
+
+# Brain/Artifacts
+.gemini/
+brain/
+task.md
+implementation_plan.md
+walkthrough.md
